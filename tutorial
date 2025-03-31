@@ -1,0 +1,11 @@
+1. npm create vite@latest .
+select framework: react, varient : js
+npm install
+npm run dev
+cd backend setup:  
+        npm install express mangoos jsonwebtoken socket.io nodemon
+        edit package.json for run the development
+create needed folders , 
+create authfile, as auth.route.js
+
+PS D:\Visual Studio Code\chatapp\backend> node src/seeds/user.seed.js   ( seed this data to DB)
