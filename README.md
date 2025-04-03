@@ -16,13 +16,13 @@ Highlights:
 ### Setup .env file
 
 ```js
-MONGODB_URI=...
+MONGODB_URI= replace your url
 PORT=5001
-JWT_SECRET=...
+JWT_SECRET= Enter your key
 
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
+CLOUDINARY_CLOUD_NAME= _______
+CLOUDINARY_API_KEY   = _______
+CLOUDINARY_API_SECRET= _______
 
 NODE_ENV=development
 ```
